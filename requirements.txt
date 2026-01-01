@@ -1,3 +1,2 @@
 python-telegram-bot==20.7
-git+https://github.com/Tinkoff/invest-python.git@v0.2.0b59
 python-dotenv
