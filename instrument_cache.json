@@ -1,0 +1,18 @@
+{
+  "TCS00A10D4Y2": {
+    "name": "ОФЗ 26252",
+    "ticker": "SU26252RMFS5"
+  },
+  "TCS80A101X50": {
+    "name": "Золото",
+    "ticker": "TGLD@"
+  },
+  "BBG004730N88": {
+    "name": "Сбер Банк",
+    "ticker": "SBER"
+  },
+  "TCS60A101X76": {
+    "name": "Крупнейшие компании РФ",
+    "ticker": "TMOS@"
+  }
+}
